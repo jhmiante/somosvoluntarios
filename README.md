@@ -3,7 +3,7 @@ Plataforma Desenvolvida para Promover a conscientização sobre a importância d
 Projeto criado para Atividade Extensionista do Curso Superior Tecnológico em Ciências de Dados da Faculdade UNINTER <br>
 
 <hr>
-## Setor de Aplicação
+<h3> Setor de Aplicação </h3>
 <ul>
   <li>O projeto será aplicado inicialmente em nível municipal, sendo em Piracicaba/SP</li>
   <li>O projeto será aplicado em casas de apoio a criança, idosos e animais</li>
@@ -12,10 +12,10 @@ Projeto criado para Atividade Extensionista do Curso Superior Tecnológico em Ci
 <br><br>
 
 <hr>
-# Etapa de Levantamento
+<h2>Etapa de Levantamento</h2>
 <hr>
 
-## Etapas do Desenvolvimento
+<h3> Etapas do Desenvolvimento </h3>
 <ul>
   <li>Desenvolver módulo para instituições incluírem as ações sociais</li>
   <li>Desenvolver módulo para cadastro de Voluntários</li>
@@ -25,7 +25,7 @@ Projeto criado para Atividade Extensionista do Curso Superior Tecnológico em Ci
 
 <hr>
 
-## Metodologia
+<h3> Metodologia </h3>
 
 <ul>
   <li>
@@ -76,7 +76,7 @@ Projeto criado para Atividade Extensionista do Curso Superior Tecnológico em Ci
 
 <hr>
 
-## Resultados Esperados/Obtidos
+## Resultados Esperados/Obtidos ##
 
 <p>
   Com a implementação do projeto "Somos Voluntário", almejo alcançar uma série de
