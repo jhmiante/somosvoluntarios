@@ -76,7 +76,7 @@ Projeto criado para Atividade Extensionista do Curso Superior Tecnológico em Ci
 
 <hr>
 
-## Resultados Esperados/Obtidos ##
+<h3> Resultados Esperados/Obtidos </h3>
 
 <p>
   Com a implementação do projeto "Somos Voluntário", almejo alcançar uma série de
@@ -116,7 +116,7 @@ positivo e duradouro na sociedade.
 
 <hr>
 
-## Considerações Finais
+<h3> Considerações Finais </h3>
 
 <p> <b>1. Dificuldades Interpessoais na Identificação de Instituições:</b> <br>
   Durante a fase inicial de esboço do projeto "Somos Voluntário", uma das dificuldades
@@ -155,5 +155,5 @@ equilíbrio entre a visão técnica e as habilidades interpessoais será essenci
 que o projeto progride da fase inicial para a aplicação prática.  
 
 <hr>
-# Etapa de Desenvolvimento e Implementação
+<h2> Etapa de Desenvolvimento e Implementação </h2>
 <hr>
