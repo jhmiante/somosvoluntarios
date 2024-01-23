@@ -11,7 +11,7 @@ Projeto criado para Atividade Extensionista do Curso Superior Tecnológico em Ci
   <li>O projeto será aplicado em casas de apoio a criança, idosos e animais</li>
 </ul>
 
-<br><br>
+<br><br><br><br>
 
 <hr>
 
@@ -19,7 +19,7 @@ Projeto criado para Atividade Extensionista do Curso Superior Tecnológico em Ci
 
 <hr>
 
-<br><br><br><br>
+<br><br>
 
 
 ## Etapas do Desenvolvimento
@@ -169,4 +169,4 @@ que o projeto progride da fase inicial para a aplicação prática.
 
 <hr>
 
-<br><br><br><br>
+<br><br>
