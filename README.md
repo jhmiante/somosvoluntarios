@@ -3,7 +3,7 @@ Plataforma Desenvolvida para Promover a conscientização sobre a importância d
 Projeto criado para Atividade Extensionista do Curso Superior Tecnológico em Ciências de Dados da Faculdade UNINTER <br>
 
 <hr>
-<h3> Setor de Aplicação </h3>
+## Setor de Aplicação ##
 <ul>
   <li>O projeto será aplicado inicialmente em nível municipal, sendo em Piracicaba/SP</li>
   <li>O projeto será aplicado em casas de apoio a criança, idosos e animais</li>
