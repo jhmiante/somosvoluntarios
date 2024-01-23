@@ -19,7 +19,7 @@ Projeto criado para Atividade Extensionista do Curso Superior Tecnológico em Ci
 
 <hr>
 
-
+<br><br><br><br>
 
 
 ## Etapas do Desenvolvimento
@@ -161,8 +161,12 @@ si, mas também o meu desenvolvimento pessoal e profissional como desenvolvedor.
 equilíbrio entre a visão técnica e as habilidades interpessoais será essencial à medida
 que o projeto progride da fase inicial para a aplicação prática.  
 
+<br><br><br><br>
+
 <hr>
 
 # Etapa de Desenvolvimento e Implementação </h2>
 
 <hr>
+
+<br><br><br><br>
